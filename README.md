@@ -1,1 +1,2 @@
-# debben80.github.io
+# Debben.eu
+Static web site
